@@ -13,7 +13,7 @@ Petite animation afin d'améliorer mes connaissances en KeyFrames CSS
 Si l'animation se charge mal, rechargez la page !
 
 ## Links
-- Live Site URL: [LINK](http://tristan-viard.alwaysdata.net/CSS-Animation/index.html)
+- Live Site URL: [LINK](https://htmlpreview.github.io/?https://github.com/valdruide/CSS-Animated-Background/blob/main/index.html)
 
 ## Author
 - Website - [SOON...]()
